@@ -1,3 +1,6 @@
+KHADIJA KHALID
+
+
 # Simple MERN Stack CRUD Application
 
 ![simple crud application](https://github.com/Kuzma02/Simple-MERN-App/assets/138793624/273df777-8a2c-4b48-aca3-db4f57c5b220)
